@@ -272,7 +272,7 @@ double eval_dist_func(
     }
 
     // Add regularization
-
+    
 
     return distval;
 }
